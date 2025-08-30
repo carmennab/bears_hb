@@ -7,10 +7,6 @@ The data used in this publication can be found at:
 
 Daily-resolution SIT: https://doi.org/10.5281/zenodo.16874638
 
-SMOS SIT: https://www.cen.uni-hamburg.de/en/icdc/data/cryosphere/l3c-smos-sit.html
-
-LARM radar freeboard: https://doi.org/10.5285/cbd2cf78-462a-4968-be20-05f9c125ad10
-
 SM-LG snow depth and density: https://doi.org/10.5067/27A0P5M6LZBI
 
 Mooring data: https://doi.org/10.1029/2019JC015756
