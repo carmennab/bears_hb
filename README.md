@@ -17,6 +17,6 @@ Surface roughness:
 
 ## Notebooks
 
-The notebooks used to produce the paper's main and supplementary figures can be found in /main_figs and /supp_figs respectively, and are named according to figure number.
+The notebooks used to prepare the paper's data and figures can be found in /auxiliary and /main_figs, respectively.
 
 
