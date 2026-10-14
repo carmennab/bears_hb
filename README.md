@@ -17,7 +17,9 @@ Surface roughness: www.cpom.ucl.ac.uk/misr_sea_ice_roughness
 
 ## Notebooks
 The notebooks used to prepare the daily sea ice thickness data can be found in /data_prep/daily_sit.
+
 The notebooks used to run the SSF analysis can be found in /ssf.
+
 The notebooks used to prepare the paper's figures can be found in /main_figs.
 
 
