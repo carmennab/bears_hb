@@ -1,6 +1,6 @@
 ### Code and data repository for:
 
-### "Sea ice and snow characteristics shape polar bear habitat selection in Hudson Bay (2026). *Polar Biology.*"
+### "Nab et al. (2026). Sea ice and snow characteristics shape polar bear habitat selection in Hudson Bay. *Polar Biology.*"
 
 ## Data
 The data used in this publication can be found at:
