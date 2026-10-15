@@ -22,4 +22,4 @@ The notebooks used to run the SSF analysis can be found in /ssf.
 
 The notebooks used to prepare the paper's figures can be found in /main_figs.
 
-
+[![DOI](https://zenodo.org/badge/1041541316.svg)](https://doi.org/10.5281/zenodo.23391035)
